@@ -1,0 +1,516 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Song</th>
+      <th>Artist</th>
+    </tr>
+    <tr>
+      <th>Rank</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>The Box\n</td>
+      <td>Roddy Ricch</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>That Way\n</td>
+      <td>Lil Uzi Vert</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Commercial (feat. Lil Uzi Vert)\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Heatin Up\n</td>
+      <td>Lil Baby &amp; Gunna</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Blinding Lights\n</td>
+      <td>The Weeknd</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Life Is Good (feat. Drake)\n</td>
+      <td>Future</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>La Difícil\n</td>
+      <td>Bad Bunny</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Si Veo a Tu Mamá\n</td>
+      <td>Bad Bunny</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Emotionally Scarred\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Woah\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Sum 2 Prove\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Live Off My Closet (feat. Future)\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Intentions (feat. Quavo)\n</td>
+      <td>Justin Bieber</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Grace\n</td>
+      <td>Lil Baby &amp; 42 Dugg</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Dance Monkey\n</td>
+      <td>Tones and I</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>High Fashion (feat. Mustard)\n</td>
+      <td>Roddy Ricch</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>PTSD (feat. Chance the Rapper, Juice WRLD &amp; ...</td>
+      <td>G Herbo</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>La Santa\n</td>
+      <td>Bad Bunny &amp; Daddy Yankee</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>No Sucker\n</td>
+      <td>Lil Baby &amp; Moneybagg Yo</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Pero Ya No\n</td>
+      <td>Bad Bunny</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Yo Perreo Sola\n</td>
+      <td>Bad Bunny</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Don't Start Now\n</td>
+      <td>Dua Lipa</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Ignorantes\n</td>
+      <td>Bad Bunny &amp; Sech</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Get Ugly\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>How\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Safaera\n</td>
+      <td>Bad Bunny, Jowell &amp; Randy &amp; Ñengo Flow</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Ballin’\n</td>
+      <td>Mustard &amp; Roddy Ricch</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Yummy\n</td>
+      <td>Justin Bieber</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Vete\n</td>
+      <td>Bad Bunny</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>Lil Top\n</td>
+      <td>YoungBoy Never Broke Again</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>Forever (feat. Lil Wayne)\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>Numbers (feat. Roddy Ricch, Gunna and London...</td>
+      <td>A Boogie wit da Hoodie</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Say So\n</td>
+      <td>Doja Cat</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Stupid Love\n</td>
+      <td>Lady Gaga</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>Same Thing\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>Bichiyal\n</td>
+      <td>Bad Bunny &amp; Yaviah</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>Circles\n</td>
+      <td>Post Malone</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>ROXANNE\n</td>
+      <td>Arizona Zervas</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>Dior\n</td>
+      <td>Pop Smoke</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>everything i wanted\n</td>
+      <td>Billie Eilish</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>We Should\n</td>
+      <td>Lil Baby &amp; Young Thug</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>Adore You\n</td>
+      <td>Harry Styles</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>OUT WEST (feat. Young Thug)\n</td>
+      <td>JACKBOYS &amp; Travis Scott</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>Soliá\n</td>
+      <td>Bad Bunny</td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>Go Stupid\n</td>
+      <td>Polo G, Stunna 4 Vegas, NLE Choppa &amp; Mike WiLL...</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>BOP\n</td>
+      <td>DaBaby</td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td>After Hours\n</td>
+      <td>The Weeknd</td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>Godzilla (feat. Juice WRLD)\n</td>
+      <td>Eminem</td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td>Blueberry Faygo\n</td>
+      <td>Lil Mosey</td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td>bad guy\n</td>
+      <td>Billie Eilish</td>
+    </tr>
+    <tr>
+      <th>51</th>
+      <td>Moral of the Story\n</td>
+      <td>Ashe</td>
+    </tr>
+    <tr>
+      <th>52</th>
+      <td>Está C****n Ser Yo\n</td>
+      <td>Bad Bunny &amp; Anuel AA</td>
+    </tr>
+    <tr>
+      <th>53</th>
+      <td>Someone You Loved\n</td>
+      <td>Lewis Capaldi</td>
+    </tr>
+    <tr>
+      <th>54</th>
+      <td>Can't Explain\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>55</th>
+      <td>25/8\n</td>
+      <td>Bad Bunny</td>
+    </tr>
+    <tr>
+      <th>56</th>
+      <td>Qué Malo\n</td>
+      <td>Bad Bunny &amp; Ñengo Flow</td>
+    </tr>
+    <tr>
+      <th>57</th>
+      <td>A Tu Merced\n</td>
+      <td>Bad Bunny</td>
+    </tr>
+    <tr>
+      <th>58</th>
+      <td>La Zona\n</td>
+      <td>Bad Bunny</td>
+    </tr>
+    <tr>
+      <th>59</th>
+      <td>Falling\n</td>
+      <td>Trevor Daniel</td>
+    </tr>
+    <tr>
+      <th>60</th>
+      <td>Catch the Sun (From "Queen &amp; Slim: The Sound...</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>61</th>
+      <td>Red Eye\n</td>
+      <td>YoungBoy Never Broke Again</td>
+    </tr>
+    <tr>
+      <th>62</th>
+      <td>Me and My Guitar\n</td>
+      <td>A Boogie wit da Hoodie</td>
+    </tr>
+    <tr>
+      <th>63</th>
+      <td>Shake the Room (feat. Quavo)\n</td>
+      <td>Pop Smoke</td>
+    </tr>
+    <tr>
+      <th>64</th>
+      <td>No Time To Die\n</td>
+      <td>Billie Eilish</td>
+    </tr>
+    <tr>
+      <th>65</th>
+      <td>VIBEZ\n</td>
+      <td>DaBaby</td>
+    </tr>
+    <tr>
+      <th>66</th>
+      <td>Memories\n</td>
+      <td>Maroon 5</td>
+    </tr>
+    <tr>
+      <th>67</th>
+      <td>Una Vez\n</td>
+      <td>Bad Bunny &amp; Mora</td>
+    </tr>
+    <tr>
+      <th>68</th>
+      <td>You should be sad\n</td>
+      <td>Halsey</td>
+    </tr>
+    <tr>
+      <th>69</th>
+      <td>WHATS POPPIN\n</td>
+      <td>Jack Harlow</td>
+    </tr>
+    <tr>
+      <th>70</th>
+      <td>Consistent\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>71</th>
+      <td>Tusa\n</td>
+      <td>KAROL G &amp; Nicki Minaj</td>
+    </tr>
+    <tr>
+      <th>72</th>
+      <td>Bandit\n</td>
+      <td>Juice WRLD &amp; YoungBoy Never Broke Again</td>
+    </tr>
+    <tr>
+      <th>73</th>
+      <td>Heartless\n</td>
+      <td>The Weeknd</td>
+    </tr>
+    <tr>
+      <th>74</th>
+      <td>Sunday Best\n</td>
+      <td>Surfaces</td>
+    </tr>
+    <tr>
+      <th>75</th>
+      <td>Start wit Me (feat. Gunna)\n</td>
+      <td>Roddy Ricch</td>
+    </tr>
+    <tr>
+      <th>76</th>
+      <td>Before You Go\n</td>
+      <td>Lewis Capaldi</td>
+    </tr>
+    <tr>
+      <th>77</th>
+      <td>No Guidance (feat. Drake)\n</td>
+      <td>Chris Brown</td>
+    </tr>
+    <tr>
+      <th>78</th>
+      <td>Forget That\n</td>
+      <td>Lil Baby &amp; Rylo Rodriquez</td>
+    </tr>
+    <tr>
+      <th>79</th>
+      <td>P*$$Y Fairy (OTW)\n</td>
+      <td>Jhené Aiko</td>
+    </tr>
+    <tr>
+      <th>80</th>
+      <td>Physical\n</td>
+      <td>Dua Lipa</td>
+    </tr>
+    <tr>
+      <th>81</th>
+      <td>Fine By Time\n</td>
+      <td>YoungBoy Never Broke Again</td>
+    </tr>
+    <tr>
+      <th>82</th>
+      <td>Sunflower (Spider-Man: Into the Spider-Verse)\n</td>
+      <td>Post Malone &amp; Swae Lee</td>
+    </tr>
+    <tr>
+      <th>83</th>
+      <td>HIGHEST IN THE ROOM\n</td>
+      <td>Travis Scott</td>
+    </tr>
+    <tr>
+      <th>84</th>
+      <td>Forever (feat. Post Malone &amp; Clever)\n</td>
+      <td>Justin Bieber</td>
+    </tr>
+    <tr>
+      <th>85</th>
+      <td>Gang Signs\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>86</th>
+      <td>Make No Sense\n</td>
+      <td>YoungBoy Never Broke Again</td>
+    </tr>
+    <tr>
+      <th>87</th>
+      <td>P FKN R\n</td>
+      <td>Bad Bunny, Kendo Kaponi &amp; Arcángel</td>
+    </tr>
+    <tr>
+      <th>88</th>
+      <td>Knocked Off\n</td>
+      <td>YoungBoy Never Broke Again</td>
+    </tr>
+    <tr>
+      <th>89</th>
+      <td>Suicidal\n</td>
+      <td>YNW Melly</td>
+    </tr>
+    <tr>
+      <th>90</th>
+      <td>TOES (feat. Lil Baby &amp; Moneybagg Yo)\n</td>
+      <td>DaBaby</td>
+    </tr>
+    <tr>
+      <th>91</th>
+      <td>Baby\n</td>
+      <td>Quality Control, Lil Baby &amp; DaBaby</td>
+    </tr>
+    <tr>
+      <th>92</th>
+      <td>My Oh My (feat. DaBaby)\n</td>
+      <td>Camila Cabello</td>
+    </tr>
+    <tr>
+      <th>93</th>
+      <td>Hurtin\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>94</th>
+      <td>ON\n</td>
+      <td>BTS</td>
+    </tr>
+    <tr>
+      <th>95</th>
+      <td>The Other Side\n</td>
+      <td>SZA &amp; Justin Timberlake</td>
+    </tr>
+    <tr>
+      <th>96</th>
+      <td>Solid\n</td>
+      <td>Lil Baby</td>
+    </tr>
+    <tr>
+      <th>97</th>
+      <td>To Die For\n</td>
+      <td>Sam Smith</td>
+    </tr>
+    <tr>
+      <th>98</th>
+      <td>Glass in the Face (feat. A Boogie wit da Hoo...</td>
+      <td>G Herbo</td>
+    </tr>
+    <tr>
+      <th>99</th>
+      <td>Puesto Pa' Guerrial\n</td>
+      <td>Bad Bunny &amp; Myke Towers</td>
+    </tr>
+    <tr>
+      <th>100</th>
+      <td>Roses (Imanbek Remix)\n</td>
+      <td>SAINt JHN</td>
+    </tr>
+  </tbody>
+</table>
