@@ -1,201 +1,201 @@
-Rank,Track,Artist
-1,Track 1,Artist 1
-2,Track 2,Artist 2
-3,Track 3,Artist 3
-4,Track 4,Artist 4
-5,Track 5,Artist 5
-6,Track 6,Artist 6
-7,Track 7,Artist 7
-8,Track 8,Artist 8
-9,Track 9,Artist 9
-10,Track 10,Artist 10
-11,Track 11,Artist 11
-12,Track 12,Artist 12
-13,Track 13,Artist 13
-14,Track 14,Artist 14
-15,Track 15,Artist 15
-16,Track 16,Artist 16
-17,Track 17,Artist 17
-18,Track 18,Artist 18
-19,Track 19,Artist 19
-20,Track 20,Artist 20
-21,Track 21,Artist 21
-22,Track 22,Artist 22
-23,Track 23,Artist 23
-24,Track 24,Artist 24
-25,Track 25,Artist 25
-26,Track 26,Artist 26
-27,Track 27,Artist 27
-28,Track 28,Artist 28
-29,Track 29,Artist 29
-30,Track 30,Artist 30
-31,Track 31,Artist 31
-32,Track 32,Artist 32
-33,Track 33,Artist 33
-34,Track 34,Artist 34
-35,Track 35,Artist 35
-36,Track 36,Artist 36
-37,Track 37,Artist 37
-38,Track 38,Artist 38
-39,Track 39,Artist 39
-40,Track 40,Artist 40
-41,Track 41,Artist 41
-42,Track 42,Artist 42
-43,Track 43,Artist 43
-44,Track 44,Artist 44
-45,Track 45,Artist 45
-46,Track 46,Artist 46
-47,Track 47,Artist 47
-48,Track 48,Artist 48
-49,Track 49,Artist 49
-50,Track 50,Artist 50
-51,Track 51,Artist 51
-52,Track 52,Artist 52
-53,Track 53,Artist 53
-54,Track 54,Artist 54
-55,Track 55,Artist 55
-56,Track 56,Artist 56
-57,Track 57,Artist 57
-58,Track 58,Artist 58
-59,Track 59,Artist 59
-60,Track 60,Artist 60
-61,Track 61,Artist 61
-62,Track 62,Artist 62
-63,Track 63,Artist 63
-64,Track 64,Artist 64
-65,Track 65,Artist 65
-66,Track 66,Artist 66
-67,Track 67,Artist 67
-68,Track 68,Artist 68
-69,Track 69,Artist 69
-70,Track 70,Artist 70
-71,Track 71,Artist 71
-72,Track 72,Artist 72
-73,Track 73,Artist 73
-74,Track 74,Artist 74
-75,Track 75,Artist 75
-76,Track 76,Artist 76
-77,Track 77,Artist 77
-78,Track 78,Artist 78
-79,Track 79,Artist 79
-80,Track 80,Artist 80
-81,Track 81,Artist 81
-82,Track 82,Artist 82
-83,Track 83,Artist 83
-84,Track 84,Artist 84
-85,Track 85,Artist 85
-86,Track 86,Artist 86
-87,Track 87,Artist 87
-88,Track 88,Artist 88
-89,Track 89,Artist 89
-90,Track 90,Artist 90
-91,Track 91,Artist 91
-92,Track 92,Artist 92
-93,Track 93,Artist 93
-94,Track 94,Artist 94
-95,Track 95,Artist 95
-96,Track 96,Artist 96
-97,Track 97,Artist 97
-98,Track 98,Artist 98
-99,Track 99,Artist 99
-100,Track 100,Artist 100
-101,Track 101,Artist 101
-102,Track 102,Artist 102
-103,Track 103,Artist 103
-104,Track 104,Artist 104
-105,Track 105,Artist 105
-106,Track 106,Artist 106
-107,Track 107,Artist 107
-108,Track 108,Artist 108
-109,Track 109,Artist 109
-110,Track 110,Artist 110
-111,Track 111,Artist 111
-112,Track 112,Artist 112
-113,Track 113,Artist 113
-114,Track 114,Artist 114
-115,Track 115,Artist 115
-116,Track 116,Artist 116
-117,Track 117,Artist 117
-118,Track 118,Artist 118
-119,Track 119,Artist 119
-120,Track 120,Artist 120
-121,Track 121,Artist 121
-122,Track 122,Artist 122
-123,Track 123,Artist 123
-124,Track 124,Artist 124
-125,Track 125,Artist 125
-126,Track 126,Artist 126
-127,Track 127,Artist 127
-128,Track 128,Artist 128
-129,Track 129,Artist 129
-130,Track 130,Artist 130
-131,Track 131,Artist 131
-132,Track 132,Artist 132
-133,Track 133,Artist 133
-134,Track 134,Artist 134
-135,Track 135,Artist 135
-136,Track 136,Artist 136
-137,Track 137,Artist 137
-138,Track 138,Artist 138
-139,Track 139,Artist 139
-140,Track 140,Artist 140
-141,Track 141,Artist 141
-142,Track 142,Artist 142
-143,Track 143,Artist 143
-144,Track 144,Artist 144
-145,Track 145,Artist 145
-146,Track 146,Artist 146
-147,Track 147,Artist 147
-148,Track 148,Artist 148
-149,Track 149,Artist 149
-150,Track 150,Artist 150
-151,Track 151,Artist 151
-152,Track 152,Artist 152
-153,Track 153,Artist 153
-154,Track 154,Artist 154
-155,Track 155,Artist 155
-156,Track 156,Artist 156
-157,Track 157,Artist 157
-158,Track 158,Artist 158
-159,Track 159,Artist 159
-160,Track 160,Artist 160
-161,Track 161,Artist 161
-162,Track 162,Artist 162
-163,Track 163,Artist 163
-164,Track 164,Artist 164
-165,Track 165,Artist 165
-166,Track 166,Artist 166
-167,Track 167,Artist 167
-168,Track 168,Artist 168
-169,Track 169,Artist 169
-170,Track 170,Artist 170
-171,Track 171,Artist 171
-172,Track 172,Artist 172
-173,Track 173,Artist 173
-174,Track 174,Artist 174
-175,Track 175,Artist 175
-176,Track 176,Artist 176
-177,Track 177,Artist 177
-178,Track 178,Artist 178
-179,Track 179,Artist 179
-180,Track 180,Artist 180
-181,Track 181,Artist 181
-182,Track 182,Artist 182
-183,Track 183,Artist 183
-184,Track 184,Artist 184
-185,Track 185,Artist 185
-186,Track 186,Artist 186
-187,Track 187,Artist 187
-188,Track 188,Artist 188
-189,Track 189,Artist 189
-190,Track 190,Artist 190
-191,Track 191,Artist 191
-192,Track 192,Artist 192
-193,Track 193,Artist 193
-194,Track 194,Artist 194
-195,Track 195,Artist 195
-196,Track 196,Artist 196
-197,Track 197,Artist 197
-198,Track 198,Artist 198
-199,Track 199,Artist 199
-200,Track 200,Artist 200
+,Artist,Song
+1,BTS,MAP OF THE SOUL : 7
+2,YoungBoy Never Broke Again,"Still Flexin, Still Steppin"
+3,Ozzy Osbourne,Ordinary Man
+4,Justin Bieber,Changes
+5,Roddy Ricch,Please Excuse Me For Being Antisocial
+6,A Boogie Wit da Hoodie,Artist 2.0
+7,Post Malone,Hollywood's Bleeding
+8,Pop Smoke,"Meet The Woo, V.2"
+9,Trippie Redd,A Love Letter To You 4
+10,Billie Eilish,"When We All Fall Asleep, Where Do We Go?"
+11,Eminem,Music To Be Murdered By
+12,Soundtrack,Frozen II
+13,Harry Styles,Fine Line
+14,DaBaby,KIRK
+15,Halsey,Manic
+16,Taylor Swift,Lover
+17,Tame Impala,The Slow Rush
+18,Luke Combs,What You See Is What You Get
+19,JACKBOYS,JACKBOYS
+20,Summer Walker,Over It
+21,Post Malone,beerbongs & bentleys
+22,Lizzo,Cuz I Love You
+23,YoungBoy Never Broke Again,AI YoungBoy 2
+24,Lil Wayne,Funeral
+25,Lewis Capaldi,Divinely Uninspired To A Hellish Extent
+26,Young Thug,So Much Fun
+27,Rod Wave,Ghetto Gospel
+28,Juice WRLD,Goodbye & Good Riddance
+29,Doja Cat,Hot Pink
+30,Luke Combs,This One's For You
+31,Billie Eilish,Dont Smile At Me
+32,Grimes,Miss Anthropocene
+33,Camila Cabello,Romance
+34,Juice WRLD,Death Race For Love
+35,Queen,Greatest Hits
+36,Drake,Scorpion
+37,Travis Scott,ASTROWORLD
+38,Tones And I,The Kids Are Coming (EP)
+39,Selena Gomez,Rare
+40,Moneybagg Yo,Time Served
+41,Post Malone,Stoney
+42,Ed Sheeran,No.6 Collaborations Project
+43,Chris Brown,Indigo
+44,Morgan Wallen,If I Know Me
+45,Mustard,Perfect Ten
+46,Elton John,Diamonds
+47,Lil Mosey,Certified Hitmaker
+48,Khalid,Free Spirit
+49,Mac Miller,Circles
+50,Blake Shelton,Fully Loaded: God's Country
+51,Lil Nas X,7 (EP)
+52,Ariana Grande,"Thank U, Next"
+53,XXXTENTACION,?
+54,Various Artists,Dreamville & J. Cole: Revenge Of The Dreamers III
+55,Original Broadway Cast Recording,Hamilton: An American Musical
+56,Lil Tjay,True 2 Myself
+57,Soundtrack,ZOMBIES 2
+58,"Royce da 5'9""",The Allegory
+59,Ed Sheeran,÷ (Divide)
+60,The Amity Affliction,Everyone Loves You... Once You Leave Them
+61,Eminem,Curtain Call: The Hits
+62,The Weeknd,Starboy
+63,Khalid,American Teen
+64,YNW Melly,Melly vs. Melvin
+65,DaBaby,Baby On Baby
+66,Kane Brown,Experiment
+67,A Boogie Wit da Hoodie,Hoodie SZN
+68,Lil Uzi Vert,Luv Is Rage 2
+69,NF,The Search
+70,Creedence Clearwater Revival Featuring John Fogerty,Chronicle The 20 Greatest Hits
+71,Shawn Mendes,Shawn Mendes
+72,Bob Marley And The Wailers,Legend: The Best Of...
+73,Maren Morris,GIRL
+74,Lauren Daigle,Look Up Child
+75,Lil Tecca,We Love You Tecca
+76,The Weeknd,Beauty Behind The Madness
+77,Kendrick Lamar,DAMN.
+78,Chris Stapleton,Traveller
+79,Cardi B,Invasion Of Privacy
+80,Yo Gotti,Untrapped
+81,Journey,Journey's Greatest Hits
+82,Fleetwood Mac,Rumours
+83,The Beatles,1
+84,King Krule,Man Alive!
+85,Dan + Shay,Dan + Shay
+86,Jonas Brothers,Happiness Begins
+87,Trevor Daniel,Homesick (EP)
+88,Russ,SHAKE THE SNOW GLOBE
+89,"Tyler, The Creator",IGOR
+90,Drake,Take Care
+91,2Pac,Greatest Hits
+92,Pat Metheny,From This Place
+93,The Beatles,Abbey Road
+94,Meek Mill,Championships
+95,Various Artists,"Quality Control: Control The Streets, Volume 2"
+96,Polo G,Die A Legend
+97,Bad Bunny,X 100PRE
+98,Soundtrack,Moana
+99,Brent Faiyaz,Fuck The World
+100,Old Dominion,Old Dominion
+101,Soundtrack,Frozen
+102,J. Cole,2014 Forest Hills Drive
+103,Soundtrack,The Greatest Showman
+104,Key Glock,Yellow Tape
+105,Pop Smoke,"Meet The Woo, V. 1 Mixtape"
+106,Drake,Views
+107,$uicideBoy$,Stop Staring At The Shadows
+108,Kendrick Lamar,"good kid, m.A.A.d city"
+109,Young Nudy,Anyways...
+110,XXXTENTACION,17
+111,Kevin Gates,I'm Him
+112,Tom Petty And The Heartbreakers,Greatest Hits
+113,Lil Baby & Gunna,Drip Harder
+114,Taylor Swift,1989
+115,Imagine Dragons,Evolve
+116,Lady Gaga & Bradley Cooper,A Star Is Born (Soundtrack)
+117,Soundtrack,Birds Of Prey: The Album
+118,Nipsey Hussle,Victory Lap
+119,The Notorious B.I.G.,Greatest Hits
+120,AC/DC,Back In Black
+121,Travis Scott,Birds In The Trap Sing McKnight
+122,Jason Aldean,9
+123,Drake,More Life
+124,Tory Lanez,Chixtape 5
+125,Myke Towers,Easy Money Baby
+126,Michael Jackson,The Essential Michael Jackson
+127,24kGoldn,Dropped Outta College
+128,Kane Brown,Kane Brown
+129,Trippie Redd,Life's A Trip
+130,NF,Perception
+131,SZA,Ctrl
+132,H.E.R.,H.E.R.
+133,BTS,Love Yourself: Answer
+134,Thomas Rhett,Center Point Road
+135,Bob Seger & The Silver Bullet Band,Greatest Hits
+136,Calboy,Long Live The Kings (EP)
+137,Guns N' Roses,Appetite For Destruction
+138,Panic! At The Disco,Pray For The Wicked
+139,Taylor Swift,reputation
+140,21 Savage,I Am > I Was
+141,Lil Baby,Harder Than Ever
+142,Mac Miller,Swimming
+143,Bruno Mars,Doo-Wops & Hooligans
+144,Nirvana,Nevermind
+145,Five Finger Death Punch,A Decade Of Destruction
+146,Billy Joel,The Essential Billy Joel
+147,Eagles,Their Greatest Hits 1971-1975
+148,Ella Mai,Ella Mai
+149,Metallica,Metallica
+150,Roddy Ricch,Feed Tha Streets II
+151,Bazzi,Cosmic
+152,Michael Jackson,Thriller
+153,Adele,21
+154,Daryl Hall John Oates,The Very Best Of Daryl Hall  John Oates
+155,Drake,Nothing Was The Same
+156,Sam Smith,In The Lonely Hour
+157,twenty one pilots,Blurryface
+158,Playboi Carti,Die Lit
+159,Ashe,Moral Of The Story: Chapter 1 (EP)
+160,MONSTA X,ALL ABOUT LUV
+161,Frank Ocean,Blonde
+162,Elvis Presley,The Essential Elvis Presley
+163,Rihanna,ANTI
+164,Zac Brown Band,Greatest Hits So Far...
+165,Linkin Park,[Hybrid Theory]
+166,BrockHampton,GINGER
+167,Bryson Tiller,T R A P S O U L
+168,Tink,Hopeless Romantic
+169,Ed Sheeran,x
+170,Surfaces,Where The Light Is
+171,Frank Sinatra,Ultimate Sinatra
+172,Ariana Grande,Sweetener
+173,Kacey Musgraves,Golden Hour
+174,The Beach Boys,Sounds Of Summer: The Very Best Of The Beach Boys
+175,Imagine Dragons,Night Visions
+176,Joji,BALLADS 1
+177,Beyonce,I Am...Sasha Fierce
+178,"Tyler, The Creator",Flower Boy
+179,Lil Wayne,Tha Carter V
+180,YoungBoy Never Broke Again,Until Death Call My Name
+181,Bon Jovi,Greatest Hits: The Ultimate Collection
+182,Lana Del Rey,Born To Die
+183,Migos,Culture II
+184,Barry Manilow,Night Songs II
+185,Florida Georgia Line,Can't Say I Ain't Country
+186,Jason Aldean,Rearview Town
+187,Tame Impala,Currents
+188,Wale,Wow... That's Crazy
+189,Dustin Lynch,Tullahoma
+190,Carly Pearce,Carly Pearce
+191,Green Day,Father Of All...
+192,Soundtrack,Bad Boys For Life: The Soundtrack
+193,J Balvin & Bad Bunny,Oasis
+194,Gunna,Drip Or Drown 2
+195,Beyonce,Beyonce
+196,Blake Shelton,Reloaded: 20 #1 Hits
+197,Jon Pardi,California Sunrise
+198,Kodak Black,Dying To Live
+199,Riley Green,Different 'Round Here
+200,George Strait,50 Number Ones
