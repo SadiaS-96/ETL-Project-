@@ -1,201 +1,201 @@
-Rank,Track,Artist
-1,Track 1,Artist 1
-2,Track 2,Artist 2
-3,Track 3,Artist 3
-4,Track 4,Artist 4
-5,Track 5,Artist 5
-6,Track 6,Artist 6
-7,Track 7,Artist 7
-8,Track 8,Artist 8
-9,Track 9,Artist 9
-10,Track 10,Artist 10
-11,Track 11,Artist 11
-12,Track 12,Artist 12
-13,Track 13,Artist 13
-14,Track 14,Artist 14
-15,Track 15,Artist 15
-16,Track 16,Artist 16
-17,Track 17,Artist 17
-18,Track 18,Artist 18
-19,Track 19,Artist 19
-20,Track 20,Artist 20
-21,Track 21,Artist 21
-22,Track 22,Artist 22
-23,Track 23,Artist 23
-24,Track 24,Artist 24
-25,Track 25,Artist 25
-26,Track 26,Artist 26
-27,Track 27,Artist 27
-28,Track 28,Artist 28
-29,Track 29,Artist 29
-30,Track 30,Artist 30
-31,Track 31,Artist 31
-32,Track 32,Artist 32
-33,Track 33,Artist 33
-34,Track 34,Artist 34
-35,Track 35,Artist 35
-36,Track 36,Artist 36
-37,Track 37,Artist 37
-38,Track 38,Artist 38
-39,Track 39,Artist 39
-40,Track 40,Artist 40
-41,Track 41,Artist 41
-42,Track 42,Artist 42
-43,Track 43,Artist 43
-44,Track 44,Artist 44
-45,Track 45,Artist 45
-46,Track 46,Artist 46
-47,Track 47,Artist 47
-48,Track 48,Artist 48
-49,Track 49,Artist 49
-50,Track 50,Artist 50
-51,Track 51,Artist 51
-52,Track 52,Artist 52
-53,Track 53,Artist 53
-54,Track 54,Artist 54
-55,Track 55,Artist 55
-56,Track 56,Artist 56
-57,Track 57,Artist 57
-58,Track 58,Artist 58
-59,Track 59,Artist 59
-60,Track 60,Artist 60
-61,Track 61,Artist 61
-62,Track 62,Artist 62
-63,Track 63,Artist 63
-64,Track 64,Artist 64
-65,Track 65,Artist 65
-66,Track 66,Artist 66
-67,Track 67,Artist 67
-68,Track 68,Artist 68
-69,Track 69,Artist 69
-70,Track 70,Artist 70
-71,Track 71,Artist 71
-72,Track 72,Artist 72
-73,Track 73,Artist 73
-74,Track 74,Artist 74
-75,Track 75,Artist 75
-76,Track 76,Artist 76
-77,Track 77,Artist 77
-78,Track 78,Artist 78
-79,Track 79,Artist 79
-80,Track 80,Artist 80
-81,Track 81,Artist 81
-82,Track 82,Artist 82
-83,Track 83,Artist 83
-84,Track 84,Artist 84
-85,Track 85,Artist 85
-86,Track 86,Artist 86
-87,Track 87,Artist 87
-88,Track 88,Artist 88
-89,Track 89,Artist 89
-90,Track 90,Artist 90
-91,Track 91,Artist 91
-92,Track 92,Artist 92
-93,Track 93,Artist 93
-94,Track 94,Artist 94
-95,Track 95,Artist 95
-96,Track 96,Artist 96
-97,Track 97,Artist 97
-98,Track 98,Artist 98
-99,Track 99,Artist 99
-100,Track 100,Artist 100
-101,Track 101,Artist 101
-102,Track 102,Artist 102
-103,Track 103,Artist 103
-104,Track 104,Artist 104
-105,Track 105,Artist 105
-106,Track 106,Artist 106
-107,Track 107,Artist 107
-108,Track 108,Artist 108
-109,Track 109,Artist 109
-110,Track 110,Artist 110
-111,Track 111,Artist 111
-112,Track 112,Artist 112
-113,Track 113,Artist 113
-114,Track 114,Artist 114
-115,Track 115,Artist 115
-116,Track 116,Artist 116
-117,Track 117,Artist 117
-118,Track 118,Artist 118
-119,Track 119,Artist 119
-120,Track 120,Artist 120
-121,Track 121,Artist 121
-122,Track 122,Artist 122
-123,Track 123,Artist 123
-124,Track 124,Artist 124
-125,Track 125,Artist 125
-126,Track 126,Artist 126
-127,Track 127,Artist 127
-128,Track 128,Artist 128
-129,Track 129,Artist 129
-130,Track 130,Artist 130
-131,Track 131,Artist 131
-132,Track 132,Artist 132
-133,Track 133,Artist 133
-134,Track 134,Artist 134
-135,Track 135,Artist 135
-136,Track 136,Artist 136
-137,Track 137,Artist 137
-138,Track 138,Artist 138
-139,Track 139,Artist 139
-140,Track 140,Artist 140
-141,Track 141,Artist 141
-142,Track 142,Artist 142
-143,Track 143,Artist 143
-144,Track 144,Artist 144
-145,Track 145,Artist 145
-146,Track 146,Artist 146
-147,Track 147,Artist 147
-148,Track 148,Artist 148
-149,Track 149,Artist 149
-150,Track 150,Artist 150
-151,Track 151,Artist 151
-152,Track 152,Artist 152
-153,Track 153,Artist 153
-154,Track 154,Artist 154
-155,Track 155,Artist 155
-156,Track 156,Artist 156
-157,Track 157,Artist 157
-158,Track 158,Artist 158
-159,Track 159,Artist 159
-160,Track 160,Artist 160
-161,Track 161,Artist 161
-162,Track 162,Artist 162
-163,Track 163,Artist 163
-164,Track 164,Artist 164
-165,Track 165,Artist 165
-166,Track 166,Artist 166
-167,Track 167,Artist 167
-168,Track 168,Artist 168
-169,Track 169,Artist 169
-170,Track 170,Artist 170
-171,Track 171,Artist 171
-172,Track 172,Artist 172
-173,Track 173,Artist 173
-174,Track 174,Artist 174
-175,Track 175,Artist 175
-176,Track 176,Artist 176
-177,Track 177,Artist 177
-178,Track 178,Artist 178
-179,Track 179,Artist 179
-180,Track 180,Artist 180
-181,Track 181,Artist 181
-182,Track 182,Artist 182
-183,Track 183,Artist 183
-184,Track 184,Artist 184
-185,Track 185,Artist 185
-186,Track 186,Artist 186
-187,Track 187,Artist 187
-188,Track 188,Artist 188
-189,Track 189,Artist 189
-190,Track 190,Artist 190
-191,Track 191,Artist 191
-192,Track 192,Artist 192
-193,Track 193,Artist 193
-194,Track 194,Artist 194
-195,Track 195,Artist 195
-196,Track 196,Artist 196
-197,Track 197,Artist 197
-198,Track 198,Artist 198
-199,Track 199,Artist 199
-200,Track 200,Artist 200
+,Track,Artist
+1,"  The Box
+",Roddy Ricch
+2,"  That Way
+",Lil Uzi Vert
+3,"  Commercial (feat. Lil Uzi Vert)
+",Lil Baby
+4,"  Heatin Up
+",Lil Baby & Gunna
+5,"  Blinding Lights
+",The Weeknd
+6,"  Life Is Good (feat. Drake)
+",Future
+7,"  La Difícil
+",Bad Bunny
+8,"  Si Veo a Tu Mamá
+",Bad Bunny
+9,"  Emotionally Scarred
+",Lil Baby
+10,"  Woah
+",Lil Baby
+11,"  Sum 2 Prove
+",Lil Baby
+12,"  Live Off My Closet (feat. Future)
+",Lil Baby
+13,"  Intentions (feat. Quavo)
+",Justin Bieber
+14,"  Grace
+",Lil Baby & 42 Dugg
+15,"  Dance Monkey
+",Tones and I
+16,"  High Fashion (feat. Mustard)
+",Roddy Ricch
+17,"  PTSD (feat. Chance the Rapper, Juice WRLD & Lil Uzi Vert)
+",G Herbo
+18,"  La Santa
+",Bad Bunny & Daddy Yankee
+19,"  No Sucker
+",Lil Baby & Moneybagg Yo
+20,"  Pero Ya No
+",Bad Bunny
+21,"  Yo Perreo Sola
+",Bad Bunny
+22,"  Don't Start Now
+",Dua Lipa
+23,"  Ignorantes
+",Bad Bunny & Sech
+24,"  Get Ugly
+",Lil Baby
+25,"  How
+",Lil Baby
+26,"  Safaera
+","Bad Bunny, Jowell & Randy & Ñengo Flow"
+27,"  Ballin’
+",Mustard & Roddy Ricch
+28,"  Yummy
+",Justin Bieber
+29,"  Vete
+",Bad Bunny
+30,"  Lil Top
+",YoungBoy Never Broke Again
+31,"  Forever (feat. Lil Wayne)
+",Lil Baby
+32,"  Numbers (feat. Roddy Ricch, Gunna and London On Da Track)
+",A Boogie wit da Hoodie
+33,"  Say So
+",Doja Cat
+34,"  Stupid Love
+",Lady Gaga
+35,"  Same Thing
+",Lil Baby
+36,"  Bichiyal
+",Bad Bunny & Yaviah
+37,"  Circles
+",Post Malone
+38,"  ROXANNE
+",Arizona Zervas
+39,"  Dior
+",Pop Smoke
+40,"  everything i wanted
+",Billie Eilish
+41,"  We Should
+",Lil Baby & Young Thug
+42,"  Adore You
+",Harry Styles
+43,"  OUT WEST (feat. Young Thug)
+",JACKBOYS & Travis Scott
+44,"  Soliá
+",Bad Bunny
+45,"  Go Stupid
+","Polo G, Stunna 4 Vegas, NLE Choppa & Mike WiLL Made-It"
+46,"  BOP
+",DaBaby
+47,"  After Hours
+",The Weeknd
+48,"  Godzilla (feat. Juice WRLD)
+",Eminem
+49,"  Blueberry Faygo
+",Lil Mosey
+50,"  bad guy
+",Billie Eilish
+51,"  Moral of the Story
+",Ashe
+52,"  Está C****n Ser Yo
+",Bad Bunny & Anuel AA
+53,"  Someone You Loved
+",Lewis Capaldi
+54,"  Can't Explain
+",Lil Baby
+55,"  25/8
+",Bad Bunny
+56,"  Qué Malo
+",Bad Bunny & Ñengo Flow
+57,"  A Tu Merced
+",Bad Bunny
+58,"  La Zona
+",Bad Bunny
+59,"  Falling
+",Trevor Daniel
+60,"  Catch the Sun (From ""Queen & Slim: The Soundtrack"")
+",Lil Baby
+61,"  Red Eye
+",YoungBoy Never Broke Again
+62,"  Me and My Guitar
+",A Boogie wit da Hoodie
+63,"  Shake the Room (feat. Quavo)
+",Pop Smoke
+64,"  No Time To Die
+",Billie Eilish
+65,"  VIBEZ
+",DaBaby
+66,"  Memories
+",Maroon 5
+67,"  Una Vez
+",Bad Bunny & Mora
+68,"  You should be sad
+",Halsey
+69,"  WHATS POPPIN
+",Jack Harlow
+70,"  Consistent
+",Lil Baby
+71,"  Tusa
+",KAROL G & Nicki Minaj
+72,"  Bandit
+",Juice WRLD & YoungBoy Never Broke Again
+73,"  Heartless
+",The Weeknd
+74,"  Sunday Best
+",Surfaces
+75,"  Start wit Me (feat. Gunna)
+",Roddy Ricch
+76,"  Before You Go
+",Lewis Capaldi
+77,"  No Guidance (feat. Drake)
+",Chris Brown
+78,"  Forget That
+",Lil Baby & Rylo Rodriquez
+79,"  P*$$Y Fairy (OTW)
+",Jhené Aiko
+80,"  Physical
+",Dua Lipa
+81,"  Fine By Time
+",YoungBoy Never Broke Again
+82,"  Sunflower (Spider-Man: Into the Spider-Verse)
+",Post Malone & Swae Lee
+83,"  HIGHEST IN THE ROOM
+",Travis Scott
+84,"  Forever (feat. Post Malone & Clever)
+",Justin Bieber
+85,"  Gang Signs
+",Lil Baby
+86,"  Make No Sense
+",YoungBoy Never Broke Again
+87,"  P FKN R
+","Bad Bunny, Kendo Kaponi & Arcángel"
+88,"  Knocked Off
+",YoungBoy Never Broke Again
+89,"  Suicidal
+",YNW Melly
+90,"  TOES (feat. Lil Baby & Moneybagg Yo)
+",DaBaby
+91,"  Baby
+","Quality Control, Lil Baby & DaBaby"
+92,"  My Oh My (feat. DaBaby)
+",Camila Cabello
+93,"  Hurtin
+",Lil Baby
+94,"  ON
+",BTS
+95,"  The Other Side
+",SZA & Justin Timberlake
+96,"  Solid
+",Lil Baby
+97,"  To Die For
+",Sam Smith
+98,"  Glass in the Face (feat. A Boogie wit da Hoodie)
+",G Herbo
+99,"  Puesto Pa' Guerrial
+",Bad Bunny & Myke Towers
+100,"  Roses (Imanbek Remix)
+",SAINt JHN
